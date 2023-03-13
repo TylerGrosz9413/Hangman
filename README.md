@@ -1,2 +1,2 @@
 # Hangman
-App for playing hangman.
+Console app for playing hangman.
